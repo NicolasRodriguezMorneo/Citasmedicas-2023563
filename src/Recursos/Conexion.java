@@ -1,8 +1,8 @@
 package Recursos;
 
-import com.mysql.jdbc.Connection;
+import con.mysql.jdbc.Connection;
 import javax.swing.JOptionPane;
-import javax.sql.DriverManager;
+import java.sql.DriverManager;
 
 public class Conexion {
     String url="jdbc:mysql://localhost:3306/citas2020";
