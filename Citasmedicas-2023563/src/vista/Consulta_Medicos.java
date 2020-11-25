@@ -42,6 +42,10 @@ public class Consulta_Medicos extends javax.swing.JInternalFrame {
         jScrollPane1 = new javax.swing.JScrollPane();
         jTable1 = new javax.swing.JTable();
 
+        setClosable(true);
+        setIconifiable(true);
+        setMaximizable(true);
+        setResizable(true);
         setTitle("Consulta de Médicos");
 
         jRadioButton1.setText("Nombres");
