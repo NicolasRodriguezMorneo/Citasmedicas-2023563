@@ -1,6 +1,6 @@
 package Modelo;
 
-import con.mysql.jdbc.Connection;
+import com.mysql.jdbc.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.sql.Statement;
