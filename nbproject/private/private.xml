@@ -3,9 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/nikro/Documents/NetBeansProjects/proyectocitas/src/Vista/PrincipalJFrame.java</file>
-            <file>file:/C:/Users/nikro/Documents/NetBeansProjects/proyectocitas/src/Vista/RegistroPaciente.java</file>
-            <file>file:/C:/Users/nikro/Documents/NetBeansProjects/proyectocitas/src/Vista/ConsultarPaciente.java</file>
+            <file>file:/C:/Users/nikro/Documents/NetBeansProjects/proyectocitas/src/Modelo/Paciente.java</file>
+            <file>file:/C:/Users/nikro/Documents/NetBeansProjects/proyectocitas/src/Modelo/Gestorpaciente.java</file>
+            <file>file:/C:/Users/nikro/Documents/NetBeansProjects/proyectocitas/src/Recursos/Conexion.java</file>
         </group>
     </open-files>
 </project-private>
